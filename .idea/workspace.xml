@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aaa7096-5ef2-4105-93ba-f06154306d06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Cisco Packet Tracer.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eclipse IDE for Java Developers - 2023-06.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub Desktop.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/android/FirebaseEssentialsAndroid.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/business plan/CHAPTER4&amp;5.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/business plan/chapter 3.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/business plan/chapter Two.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/business plan/~$APTER4&amp;5.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/numerical analysis/CamScanner 08-03-2023 08.22.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/numerical analysis/Finite difference.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/numerical analysis/Lecture 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/numerical analysis/Scan 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/YEAR3 IBL/numerical analysis/num-diff-integ-web.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/Year4/APPROVED SCIT END OF SEMESTER 2023-2024 DECEMBER 2023  EXAM TIMEABLE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/android/videos/CRUD in Firebase Realtime Database in Android Studio _ Admin-Client Module in Kotlin _ All 4 Parts(720P_HD).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/android/videos/CRUD using Firebase Realtime Database in Android Studio using Kotlin _ Create_ Read_ Update_ Delete(720P_HD).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/android/videos/Login and Signup using Firebase Authentication in Android Studio _ Kotlin(720P_HD).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT/android/videos/Login and Signup using Firebase Realtime Database in Android Studio _ Store Data(720P_HD).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Microsoft Edge.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDBCompass.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Slack.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Visual Studio Code.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YouTube.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cyprian (Person 1) - Chrome.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cyprian/CURRICULUM VITAE. (1) - Copy.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cyprian/cover page.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datascience1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/TOCjava-full-stack-web-developer-training (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/javascript/Modern_JavaScript_Learning_Path_2020.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/javascript/React_Learning_Path_2020.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/project/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/project/ActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/project/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/project/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/project/file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/project/file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/project/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../offfice/Configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../offfice/setup.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python class/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secretary/FRIENDS GROUP CONTRIBUTION.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secretary/Officials.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secretary/individual-savins(AutoRecovered).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secretary/individual-savins.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secretary/~$individual-savins.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2f8IHopQthRcdNx2aWwxqZCdQSY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aaa7096-5ef2-4105-93ba-f06154306d06" name="Changes" comment="" />
+      <created>1713176198171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713176198171</updated>
+      <workItem from="1713176207514" duration="47000" />
+    </task>
+    <servers />
+  </component>
+</project>
